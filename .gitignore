@@ -1,0 +1,7 @@
+target/
+test-output/
+testng.out
+testng-failed.xml
+.classpath
+.project
+.settings/
